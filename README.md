@@ -27,7 +27,7 @@ Neste primeiro módulo algumas coisas que eu aprendi:
 - Com o projeto aberto você deve rodar os seguintes comandos em seu terminal para instalar as dependencias:
 
 ```shell
-    yarn / npm install
+    yarn install / npm install
 ```
 
 - Para iniciar a API você deve realizar o seguinte comando:
@@ -38,7 +38,7 @@ Neste primeiro módulo algumas coisas que eu aprendi:
 
 - Para realizar testes na API:
 ```shell
-    yarn jest / npm run jest
+    yarn test / npm run test
 ```
 
 # 🛣️ Rotas para testar a API:
